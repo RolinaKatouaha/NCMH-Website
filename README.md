@@ -37,7 +37,7 @@ Conclusion:
 
 This platform is pivotal for efficiently tracking and supporting mental health initiatives at the university level, offering robust tools for data management and reporting.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *** To ensure proper functionality of the website, please create a folder named uploads in the same directory as the project files. This is necessary for managing file uploads within the platform.
 
 *** Ensure to replace placeholders like # with actual URLs or relevant data where necessary. This introduction now serves both as a detailed guide for new users and a solid overview for potential contributors to your project.
