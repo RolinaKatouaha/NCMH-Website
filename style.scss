@@ -1,0 +1,10 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$fonts: 'Tajawal' sans-serif;
+$primary-color: #ab99ca;
+
+th{
+        font-family: $fonts;
+        background-color: $primary-color;
+   
+}
