@@ -34,8 +34,7 @@ Limitations:
 - Charts only display combined data for two years, with no option for isolating single-year data.
 
 Conclusion:
-
-     This platform is pivotal for efficiently tracking and supporting mental health initiatives at the university level, offering robust tools for data management and reporting.
+This platform is pivotal for efficiently tracking and supporting mental health initiatives at the university level, offering robust tools for data management and reporting.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *** To ensure proper functionality of the website, please create a folder named uploads in the same directory as the project files. This is necessary for managing file uploads within the platform.
