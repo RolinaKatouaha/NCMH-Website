@@ -1,8 +1,7 @@
 # NCMH-Website
 
 Project Overview:
-
-     This project develops a comprehensive web platform tailored for the National Center for Mental Health (NCMH). The website is designed to enable the NCMH leaders and the commission presidents to monitor and manage the achievements of mental health promotion groups at universities. It features two main dashboards: one for the groups presidents and another for the Initiative Leader, each with specialized functionalities tailored to their roles.
+   This project develops a comprehensive web platform tailored for the National Center for Mental Health (NCMH). The website is designed to enable the NCMH leaders and the commission presidents to monitor and manage the achievements of mental health promotion groups at universities. It features two main dashboards: one for the groups presidents and another for the Initiative Leader, each with specialized functionalities tailored to their roles.
 
 Dashboards and Features:
 1. Initiative Leader Dashboard:
